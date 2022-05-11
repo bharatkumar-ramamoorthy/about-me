@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bharatkumar-ramamoorthy
-- 👀 I’m a google certified data analysis badge holder
+- 👀 I’m a google certified data analysis badge holder, interested in business and market data analytics
 - 🌱 I’m a master's graduate in management engineering at politecnico di milano, italy
 - 📫 reach me at rbharatkumar@outlook.com
