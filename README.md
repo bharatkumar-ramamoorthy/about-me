@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bharatkumar-ramamoorthy
-- 👀 I’m interested in business and data analytics
-- 🌱 I’m currently a student, pursuing my masters in management engineering at politecnico di milano, italy
+- 👀 I’m a google certified data analysis badge holder
+- 🌱 I’m a master's graduate in management engineering at politecnico di milano, italy
 - 📫 reach me at rbharatkumar@outlook.com
